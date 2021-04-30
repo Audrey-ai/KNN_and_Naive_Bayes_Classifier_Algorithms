@@ -2,9 +2,9 @@
 
 Based on titanic dataset and dataset based on considering whether an email is spam or not,we will be working on two separate projects and applying the KNN and Naive Bayes Classifier Algorithms to each project separately as shown below:
 
-First project:We will be working on predicting whether a passenger survived or did not survive based on titanic dataset and for this project we will be implementing the KNN Classifier Algorithm to come up with a model to make this prediction.
+First Project:  We will be working on predicting whether a passenger survived or did not survive based on titanic dataset and for this project we will be implementing the KNN Classifier Algorithm to come up with a model to make this prediction.
 
-Second project:We will be working on predicting whether an email is spam or not and for this project we will be implementing the Naive Bayes Classifier Algorithm to come up with a model to make this prediction.
+Second project:  We will be working on predicting whether an email is spam or not and for this project we will be implementing the Naive Bayes Classifier Algorithm to come up with a model to make this prediction.
 
 
 # Description
