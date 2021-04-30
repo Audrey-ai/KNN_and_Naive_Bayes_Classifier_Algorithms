@@ -11,9 +11,7 @@ Second project:  We will be working on predicting whether an email is spam or no
 KNN is a non-parametric algorithm. Non-parametric means there is no assumption for underlying data distribution. In other words, the model structure determined from the dataset.
 K Nearest Neighbor(KNN) is a very simple, easy to understand, versatile and one of the topmost machine learning algorithms and we will be using it with regards to titanic dataset to come with a model that predicts whether a passenger survived or not in the first project.
 
-Naive Bayes is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. Naive Bayes model is easy to build and particularly useful for very large data sets.
-
-In our research we will apply the Naive Bayes Classifier algorithm to to predict whether an email is spam or not based on a number of features in the second project.
+Naive Bayes is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. Naive Bayes model is easy to build and particularly useful for very large data sets.In our research we will apply the Naive Bayes Classifier algorithm to to predict whether an email is spam or not based on a number of features in the second project.
 
 
 
